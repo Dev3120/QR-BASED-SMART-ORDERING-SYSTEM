@@ -84,7 +84,7 @@ This system helps restaurants streamline operations and boost customer satisfact
 ![Menu Page](Menu-Page.png)
 
 ### 🛒 Cart & Order Confirmation
-![Cart Page](CreateOrder-page.png)
+![Cart Page](CreateOrder-Page.png)
 
 ### 🧑‍🍳 Admin Dashboard
 ![Admin Dashboard](Dashboard-page.png)
