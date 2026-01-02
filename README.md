@@ -78,5 +78,17 @@ This system helps restaurants streamline operations and boost customer satisfact
 
 ---
 
-## 📁 Project Structure
+## 📸 Screenshots
+
+### 📱 Customer Menu Page
+![Menu Page](menu_page.png)
+
+### 🛒 Cart & Order Confirmation
+![Cart Page](cart_page.png)
+
+### 🧑‍🍳 Admin Dashboard
+![Admin Dashboard](admin_dashboard.png)
+
+### 🔗 QR Code for Table
+![QR Code](qr_code_table.png)
 
