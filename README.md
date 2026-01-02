@@ -84,14 +84,14 @@ This system helps restaurants streamline operations and boost customer satisfact
 ![Menu Page](Menu-Page.png)
 
 ### 🛒 Cart & Order Confirmation
-![Cart Page](Create-Order.png)
+![Cart Page](CreateOrder-page.png)
 
 ### 🧑‍🍳 Admin Dashboard
-![Admin Dashboard](Dashboard.png)
+![Admin Dashboard](Dashboard-page.png)
 
 ### 🔗 CheckOut Page
-![QR Code](Checkout-Page.png)
+![QR Code](Checkout-page.png)
 
 ### 🧑‍🍳 Invoice Page
-![QR Code](Invoice-Page.png)
+![QR Code](Invoice-page.png)
 
